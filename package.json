@@ -1,0 +1,20 @@
+{
+  "name": "fragment-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.6.0",
+    "bluebird": "^2.10.1",
+    "cli-table": "^0.3.1",
+    "express": "^4.13.3",
+    "request": "^2.64.0",
+    "route-cache": "^0.2.0",
+    "underscore": "^1.8.3"
+  }
+}

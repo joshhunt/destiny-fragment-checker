@@ -1,0 +1,350 @@
+{
+  "1": {
+    "roman": "I",
+    "number": "1",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/CRQFolmNqmA"
+  },
+  "2": {
+    "roman": "II",
+    "number": "2",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/G9oo1J6e_jQ"
+  },
+  "3": {
+    "roman": "III",
+    "number": "3",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/-5jNuQfsvt4"
+  },
+  "4": {
+    "roman": "IV",
+    "number": "4",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/VUO_KyKDkew"
+  },
+  "5": {
+    "roman": "V",
+    "number": "5",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://youtu.be/k2RjU"
+  },
+  "6": {
+    "roman": "VI",
+    "number": "6",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://youtu.be/bhTOr7MH93U"
+  },
+  "7": {
+    "roman": "VII",
+    "number": "7",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://youtu.be/PAOwpMhWVF8"
+  },
+  "8": {
+    "roman": "VIII",
+    "number": "8",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://youtu.be/YSd61cAh06k"
+  },
+  "9": {
+    "roman": "IX",
+    "number": "9",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://youtu.be/BaXODMsNexs"
+  },
+  "10": {
+    "roman": "X",
+    "number": "10",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://youtu.be/SjvpQVCzGk4"
+  },
+  "11": {
+    "roman": "XI",
+    "number": "11",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://youtu.be/Lh2bm20my"
+  },
+  "12": {
+    "roman": "XII",
+    "number": "12",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://youtu.be/zIZaL1NpXho"
+  },
+  "13": {
+    "roman": "XIII",
+    "number": "13",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://youtu.be/OygJu"
+  },
+  "14": {
+    "roman": "XIV",
+    "number": "14",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://youtu.be/gubApRTD_wY"
+  },
+  "15": {
+    "roman": "XV",
+    "number": "15",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://youtu.be/PTAmhkkRlac"
+  },
+  "16": {
+    "roman": "XVI",
+    "number": "16",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://youtu.be/FKDcFJYO8H8"
+  },
+  "17": {
+    "roman": "XVII",
+    "number": "17",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://youtu.be/i7PBfkgqo5g"
+  },
+  "18": {
+    "roman": "XVIII",
+    "number": "18",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://youtu.be/LWLhu7LNWGA"
+  },
+  "19": {
+    "roman": "XIX",
+    "number": "19",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://youtu.be/b_euukXiGq8"
+  },
+  "20": {
+    "roman": "XX",
+    "number": "20",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://youtu.be/ZmB3Ur5qhnE"
+  },
+  "21": {
+    "roman": "XXI",
+    "number": "21",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/Zu2rIVdwGPI"
+  },
+  "22": {
+    "roman": "XXII",
+    "number": "22",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/oq4A0x4m0BM"
+  },
+  "23": {
+    "roman": "XXIII",
+    "number": "23",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://youtu.be/ca_7fjcYebU"
+  },
+  "24": {
+    "roman": "XXIV",
+    "number": "24",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://youtu.be/M_5FpcLF3eU"
+  },
+  "25": {
+    "roman": "XXV",
+    "number": "25",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://youtu.be/BqQ3UyMM_n4"
+  },
+  "26": {
+    "roman": "XXVI",
+    "number": "26",
+    "location": "The Sunless Cell",
+    "activity": "Strike",
+    "video": "https://youtu.be/NVDG4K1IxvY"
+  },
+  "27": {
+    "roman": "XXVII",
+    "number": "27",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://youtu.be/FelSvk4eibc"
+  },
+  "28": {
+    "roman": "XXVIII",
+    "number": "28",
+    "location": "Shield Brothers",
+    "activity": "Strike",
+    "video": "https://youtu.be/SpXELWBQEzI"
+  },
+  "29": {
+    "roman": "XXIX",
+    "number": "29",
+    "location": "King's Fall",
+    "activity": "",
+    "video": "https://youtu.be/CMMRnFhQ2_U"
+  },
+  "30": {
+    "roman": "XXX",
+    "number": "30",
+    "location": "King's Fall",
+    "activity": "Basilica",
+    "video": "https://youtu.be/CMMRnFhQ2_U"
+  },
+  "31": {
+    "roman": "XXXI",
+    "number": "31",
+    "location": "King's Fall",
+    "activity": "Golgoroth's Cellar",
+    "video": "https://youtu.be/CMMRnFhQ2_U"
+  },
+  "32": {
+    "roman": "XXXII",
+    "number": "32",
+    "location": "King's Fall",
+    "activity": "Pending",
+    "video": "https://youtu.be/CMMRnFhQ2_U"
+  },
+  "33": {
+    "roman": "XXXIII",
+    "number": "33",
+    "location": "King's Fall",
+    "activity": "2nd jumping puzzle",
+    "video": "https://youtu.be/CMMRnFhQ2_U"
+  },
+  "34": {
+    "roman": "XXXIV",
+    "number": "34",
+    "location": "Mausoleum",
+    "activity": "Scent",
+    "video": "https://youtu.be/List6aXiJp0"
+  },
+  "35": {
+    "roman": "XXXV",
+    "number": "35",
+    "location": "Hall of Souls",
+    "activity": "Consumption"
+  },
+  "36": {
+    "roman": "XXXVI",
+    "number": "36",
+    "location": "Hall of Souls",
+    "activity": "Founts"
+  },
+  "37": {
+    "roman": "XXXVII",
+    "number": "37",
+    "location": "Mausoleum",
+    "activity": "Skyburners",
+    "video": "https://youtu.be/8jgI4qUCvCg"
+  },
+  "38": {
+    "roman": "XXXVIII",
+    "number": "38",
+    "location": "Random (see below)",
+    "activity": "Wormsinger",
+    "video": "https://www.youtube.com/watch?v=RypyNAyCMB0"
+  },
+  "39": {
+    "roman": "XXXIX",
+    "number": "39",
+    "location": "Court of Oryx T2",
+    "activity": "Lokaar",
+    "video": "https://youtu.be/ZD33_Ps9u28"
+  },
+  "40": {
+    "roman": "XL",
+    "number": "40",
+    "location": "Court of Oryx T2",
+    "activity": "Bracus Horu’usk",
+    "video": "https://www.youtube.com/watch?v=T0kV3GgSy5A"
+  },
+  "41": {
+    "roman": "XLI",
+    "number": "41",
+    "location": "Court of Oryx T2",
+    "activity": "Cra’adug and Mengoor",
+    "video": "https://youtu.be/xBAMdYOU4hk"
+  },
+  "42": {
+    "roman": "XLII",
+    "number": "42",
+    "location": "Court of Oryx T2",
+    "activity": "Vorlog",
+    "video": "https://www.youtube.com/watch?v=DTIAP-oeFmE"
+  },
+  "43": {
+    "roman": "XLIII",
+    "number": "43",
+    "location": "Court of Oryx T2?",
+    "activity": "Krughor?",
+    "video": "unconfirmed"
+  },
+  "44": {
+    "roman": "XLIV",
+    "number": "44",
+    "location": "Court of Oryx T2?",
+    "activity": "Alzok Dal, Gornuk Dal and Zyrok Dal?",
+    "video": "unconfirmed"
+  },
+  "45": {
+    "roman": "XLV",
+    "number": "45",
+    "location": "Undiscovered",
+    "activity": "",
+    "video": ""
+  },
+  "46": {
+    "roman": "XLVI",
+    "number": "46",
+    "location": "Nightfall completion",
+    "activity": "Strike",
+    "video": "https://youtu.be/FRGLuSNPObI"
+  },
+  "47": {
+    "roman": "XLVII",
+    "number": "47",
+    "location": "Hall of Souls Week 2",
+    "activity": "Court of Oryx T3",
+    "video": "https://youtu.be/j7wOMbqK"
+  },
+  "48": {
+    "roman": "XLVIII",
+    "number": "48",
+    "location": "Undiscovered",
+    "activity": "",
+    "video": ""
+  },
+  "49": {
+    "roman": "XLIX",
+    "number": "49",
+    "location": "Hall of Souls Week 1",
+    "activity": "Court of Oryx T3",
+    "video": "https://www.youtube.com/watch?v=l5-YlGso7ug"
+  },
+  "50": {
+    "roman": "L",
+    "number": "50",
+    "location": "Court of Oryx",
+    "activity": "Quest",
+    "video": "https://www.youtube.com/watch?v=LwcHJ7T6fq4"
+  }
+}
