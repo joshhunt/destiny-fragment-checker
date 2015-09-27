@@ -19,7 +19,7 @@ app.get('/:platform/:displayName', cache(oneMin), function(req, res) {
         .catch(function(err) {
             console.log(err.stack || err);
             var page = createHtml.error();
-            res.status(500).send(page).end()
+            res.status(500).send(page)
         })
 });
 
